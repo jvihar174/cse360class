@@ -1,2 +1,2 @@
 # cse360class
-This is an in erosn class acitivity assignment. 
+This is an in perosn class acitivity assignment. 
